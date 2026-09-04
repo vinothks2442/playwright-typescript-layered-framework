@@ -365,10 +365,10 @@ The framework can be extended with additional:
 
 **Vinothkumar S**
 
-QA Engineer | Business Analyst
+QA Engineer (Manual + Automation)
 
 GitHub:  
-https://github.com/vinothks2442
+https://github.com/vinothks2442/playwright-typescript-layered-framework
 
 ---
 
