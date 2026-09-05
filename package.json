@@ -1,0 +1,30 @@
+{
+  "name": "playwright-typescript-layered-framework",
+  "version": "1.0.0",
+  "description": "Layered UI and API test automation framework built with Playwright and TypeScript.",
+  "scripts": {
+    "test": "playwright test",
+    "test:ui": "playwright test tests/ui",
+    "test:api": "playwright test tests/api",
+    "test:chromium": "playwright test --project=chromium",
+    "test:firefox": "playwright test --project=firefox",
+    "test:webkit": "playwright test --project=webkit",
+    "test:report": "playwright show-report"
+  },
+  "keywords": [
+    "playwright",
+    "typescript",
+    "test-automation",
+    "api-testing",
+    "ui-testing",
+    "qa-automation"
+  ],
+  "author": "Vinothkumar S",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.4.1",
+    "typescript": "^7.0.2"
+  }
+}
