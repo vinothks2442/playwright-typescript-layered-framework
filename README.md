@@ -279,15 +279,13 @@ npx playwright show-report
 
 The current automated suite contains:
 
-- **14 unique automated test scenarios**
-- **Chromium**
-- **Firefox**
-- **WebKit**
+- 14 unique automated test scenarios
+- 42 total test executions across Chromium, Firefox, and WebKit
 - UI automation
 - API automation
 - Positive and negative scenarios
 
-The complete suite has been successfully executed locally and through GitHub Actions.
+The suite has been verified locally across Chromium, Firefox, and WebKit.
 
 ---
 
